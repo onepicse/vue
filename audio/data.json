@@ -1,0 +1,262 @@
+{
+  "code": 0,
+  "subcode": 0,
+  "message": "",
+  "default": 0,
+  "data": {
+    "topList": [
+      {
+        "id": 4,
+        "listenCount": 19900000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_4_300_201428096.jpg",
+        "songList": [
+          {
+            "singername": "张杰",
+            "songname": "自己 (Live)"
+          },
+          {
+            "singername": "李健",
+            "songname": "红豆曲 ＋ 一生所爱 (Live)"
+          },
+          {
+            "singername": "南征北战",
+            "songname": "生来倔强"
+          }
+        ],
+        "topTitle": "巅峰榜·流行指数",
+        "type": 0
+      },
+      {
+        "id": 26,
+        "listenCount": 19300000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_26_300_201213781.jpg",
+        "songList": [
+          {
+            "singername": "薛之谦",
+            "songname": "高尚"
+          },
+          {
+            "singername": "牛奶咖啡",
+            "songname": "遇见你"
+          },
+          {
+            "singername": "杨宗纬/张碧晨",
+            "songname": "凉凉"
+          }
+        ],
+        "topTitle": "巅峰榜·热歌",
+        "type": 0
+      },
+      {
+        "id": 33,
+        "listenCount": 9100000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_33_300_201428096.jpg",
+        "songList": [
+          {
+            "singername": "张杰",
+            "songname": "自己 (Live)"
+          },
+          {
+            "singername": "梁博",
+            "songname": "男孩 (Live)"
+          },
+          {
+            "singername": "赵雷",
+            "songname": "成都 (Live)"
+          }
+        ],
+        "topTitle": "巅峰榜·广汽三菱欧蓝德·歌手",
+        "type": 0
+      },
+      {
+        "id": 27,
+        "listenCount": 9300000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_27_300_201419857.jpg",
+        "songList": [
+          {
+            "singername": "David Guetta/Nicki Minaj/Lil Wayne",
+            "songname": "Light My Body Up"
+          },
+          {
+            "singername": "南征北战",
+            "songname": "生来倔强"
+          },
+          {
+            "singername": "南征北战",
+            "songname": "非凡时代"
+          }
+        ],
+        "topTitle": "巅峰榜·新歌",
+        "type": 0
+      },
+      {
+        "id": 28,
+        "listenCount": 9100000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_28_300_200789193.jpg",
+        "songList": [
+          {
+            "singername": "阿悄/朱元冰",
+            "songname": "因为遇见你"
+          },
+          {
+            "singername": "王冕",
+            "songname": "勉为其难"
+          },
+          {
+            "singername": "李宏毅/李明霖",
+            "songname": "恶魔的爱"
+          }
+        ],
+        "topTitle": "巅峰榜·网络歌曲",
+        "type": 0
+      },
+      {
+        "id": 5,
+        "listenCount": 6409040,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_5_300_201213781.jpg",
+        "songList": [
+          {
+            "singername": "薛之谦",
+            "songname": "高尚"
+          },
+          {
+            "singername": "牛奶咖啡",
+            "songname": "遇见你"
+          },
+          {
+            "singername": "徐良",
+            "songname": "简单的温热"
+          }
+        ],
+        "topTitle": "巅峰榜·内地",
+        "type": 0
+      },
+      {
+        "id": 6,
+        "listenCount": 5044000,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_6_300_201058249.jpg",
+        "songList": [
+          {
+            "singername": "张信哲",
+            "songname": "好好爱个女孩"
+          },
+          {
+            "singername": "董又霖",
+            "songname": "开始想你了"
+          },
+          {
+            "singername": "杨宗纬/张碧晨",
+            "songname": "凉凉"
+          }
+        ],
+        "topTitle": "巅峰榜·港台",
+        "type": 0
+      },
+      {
+        "id": 3,
+        "listenCount": 10974120,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_3_300_201068780.jpg",
+        "songList": [
+          {
+            "singername": "Linkin Park",
+            "songname": "Battle Symphony"
+          },
+          {
+            "singername": "G-Eazy/Kehlani",
+            "songname": "Good Life"
+          },
+          {
+            "singername": "Clean Bandit/Zara Larsson",
+            "songname": "Symphony"
+          }
+        ],
+        "topTitle": "巅峰榜·欧美",
+        "type": 0
+      },
+      {
+        "id": 17,
+        "listenCount": 1874940,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_17_300_200372110.jpg",
+        "songList": [
+          {
+            "singername": "ONE OK ROCK (ワンオクロック)",
+            "songname": "Listen"
+          },
+          {
+            "singername": "RADWIMPS (ラッドウィンプス)",
+            "songname": "Zenzenzense"
+          },
+          {
+            "singername": "RADWIMPS (ラッドウィンプス)",
+            "songname": "Nandemonaiya"
+          }
+        ],
+        "topTitle": "巅峰榜·日本",
+        "type": 0
+      },
+      {
+        "id": 32,
+        "listenCount": 4447940,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_32_300_104861467.jpg",
+        "songList": [
+          {
+            "singername": "齐一",
+            "songname": "这个年纪"
+          },
+          {
+            "singername": "南征北战",
+            "songname": "我的天空"
+          },
+          {
+            "singername": "苏运莹",
+            "songname": "野子 (Live)"
+          }
+        ],
+        "topTitle": "巅峰榜·音乐人",
+        "type": 0
+      },
+      {
+        "id": 201,
+        "listenCount": 268982,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/20150127163830.jpg",
+        "songList": [
+          {
+            "singername": "鹿晗",
+            "songname": "敢 Roleplay (舞蹈版)"
+          },
+          {
+            "singername": "周杰伦",
+            "songname": "美人鱼"
+          },
+          {
+            "singername": "鹿晗",
+            "songname": "敢 Roleplay (剧情版)"
+          }
+        ],
+        "topTitle": "巅峰榜·MV",
+        "type": 0
+      },
+      {
+        "id": 36,
+        "listenCount": 3324760,
+        "picUrl": "http://y.gtimg.cn/music/common/upload/iphone_order_channel/toplist_36_300_200525765.jpg",
+        "songList": [
+          {
+            "singername": "苏悦宁",
+            "songname": "红色高跟鞋"
+          },
+          {
+            "singername": "师薇",
+            "songname": "东京不太热"
+          },
+          {
+            "singername": "胡赟兆",
+            "songname": "啷个哩个啷"
+          }
+        ],
+        "topTitle": "巅峰榜·K歌金曲",
+        "type": 0
+      }
+    ]
+  }
+}

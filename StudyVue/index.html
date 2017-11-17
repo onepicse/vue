@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>学习VUE深层次</title>
+	<style type="text/css">
+		*,*:before,*:after {
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+</head>
+<body>
+	<div id="app">
+		{{ a }}
+	</div>
+	<script type="text/javascript" src="js/vue.js"></script>
+	<script type="text/javascript">
+		var vm = new Vue({
+			el: '#app',
+			data: function () {
+				return {
+					a: 'test'
+				}
+			},
+			created: function () {
+				// console.log(this.$el)
+			},
+			mounted: function () {
+				console.log(this.$el)
+			}
+		})
+	</script>
+</body>
+</html>

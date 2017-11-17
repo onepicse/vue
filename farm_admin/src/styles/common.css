@@ -1,0 +1,20 @@
+html,body{
+	width: 100%;
+	min-height: 100%;
+	font-family: "Helvetica Neue",Helvetica,STXihei,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",微软雅黑,Arial,sans-serif;
+}
+.container{
+	width: 1000px;
+	height: auto;
+	margin: 0 auto;
+}
+.clear:after{
+	content: '.';
+	display: block;
+	width: 0;
+	height: 0;
+	visibility: hidden;
+	font-size: 0;
+	line-height: 0;
+	clear: both;
+}

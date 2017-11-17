@@ -1,0 +1,28 @@
+@background-color: #f3f2f0;
+@font-black-color: #0b0b0b;
+@font-grey-color: #c5c1c0;
+@font-active-color: #fd7c42;
+@white: #fff;
+@black: #000;
+
+html,body{
+	font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  	-webkit-font-smoothing: antialiased;
+  	-moz-osx-font-smoothing: grayscale;
+  	background-color: @background-color;
+  	color: @font-grey-color;
+}
+input{
+	-webkit-appearance: none;
+}
+textarea{
+	-webkit-appearance: none;
+}
+.clear:after{
+	content: '.';
+	display: block;
+	visibility: hidden;
+	line-height: 0;
+	font-size: 0;
+	clear: both;
+}
